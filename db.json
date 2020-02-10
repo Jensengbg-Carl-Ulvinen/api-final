@@ -8,29 +8,34 @@
     },
     {
       "id": "02",
-      "product": "Wheels",
+      "product": "Skateboard Hjul",
       "price": "300",
       "image": "https://placeimg.com/640/480/any"
     },
     {
       "id": "03",
-      "product": "Helmet",
+      "product": "Hjälm",
       "price": "400",
       "image": "https://placeimg.com/640/480/any"
     },
     {
       "id": "04",
-      "product": "Kneepads",
+      "product": "Knäskydd",
       "price": "300",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "05",
+      "product": "Kullager",
+      "price": "100",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "06",
+      "product": "Stickers",
+      "price": "50",
       "image": "https://placeimg.com/640/480/any"
     }
   ],
-  "cart": [
-    {
-      "id": "01",
-      "product": "Skateboard",
-      "price": "1000",
-      "image": "https://placeimg.com/640/480/any"
-    }
-  ]
+  "cart": []
 }
