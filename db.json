@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "01",
+      "product": "Skateboard",
+      "price": "1000",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "02",
+      "product": "Wheels",
+      "price": "300",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "03",
+      "product": "Helmet",
+      "price": "400",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "04",
+      "product": "Kneepads",
+      "price": "300",
+      "image": "https://placeimg.com/640/480/any"
+    }
+  ],
+  "cart": []
+}
