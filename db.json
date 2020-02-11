@@ -37,12 +37,5 @@
       "image": "https://placeimg.com/640/480/any"
     }
   ],
-  "cart": [
-    {
-      "id": "01",
-      "product": "Skateboard",
-      "price": "1000",
-      "image": "https://placeimg.com/640/480/any"
-    }
-  ]
+  "cart": []
 }
