@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jensengbg-Carl-Ulvinen/nodejs-the-one-where-we-build-an-API-assignment-1.git"
+    "url": "git+https://github.com/Jensengbg-Carl-Ulvinen/api-final.git"
   },
   "author": "Carl Ulvinen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jensengbg-Carl-Ulvinen/nodejs-the-one-where-we-build-an-API-assignment-1/issues"
+    "url": "https://github.com/Jensengbg-Carl-Ulvinen/api-final/issues"
   },
-  "homepage": "https://github.com/Jensengbg-Carl-Ulvinen/nodejs-the-one-where-we-build-an-API-assignment-1#readme",
+  "homepage": "https://github.com/Jensengbg-Carl-Ulvinen/api-final",
   "dependencies": {
     "express": "^4.17.1",
     "lowdb": "^1.0.0",
