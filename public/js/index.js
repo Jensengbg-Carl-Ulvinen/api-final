@@ -47,7 +47,7 @@ const consoleFunc = (cartArr, prodArr) => {
 }
 
 const checkFunc = data => {
-    let url = 'http://localhost:8000/cart/getAll';
+    let url = 'http://localhost:8003/cart/getAll';
     fetch(url, { method: 'GET' })
         .then(res => res.json())
         .then(cartData => consoleFunc(cartData, data))
@@ -56,7 +56,6 @@ const checkFunc = data => {
 
 const createHmtlElement = data => {
     data.map(prod => {
-
         let prodDiv = document.createElement('div');
         prodDiv.setAttribute('class', 'product');
         prodDiv.setAttribute('id', prod.id);
